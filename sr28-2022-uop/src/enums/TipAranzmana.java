@@ -1,0 +1,12 @@
+package enums;
+
+public enum TipAranzmana {
+	LJETOVANJE,
+    ZIMOVANJE,
+    EVROPSKIGRADOVI,
+    DALEKAPUTOVANJA,
+    FIRSTMINUTE,
+    LASTMINUTE,
+    PUTOVANJEUTOKUPRAZNIKA
+
+}

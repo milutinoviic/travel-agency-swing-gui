@@ -1,0 +1,13 @@
+0;aaaa;frfrrfr;frrgfgfr;ggrgr;rgfgfrgfr;gfrgf;grfgfgf;MUSKI;AGENT;false
+1;asdsdsd;ipj;pij;ijip;pijpi;jp;ipj;MUSKI;AGENT;false
+2;nemanjaaa;dafsgsg;fghas;bgdrsab;fadbfad;fdbdas;frbadbhd;ZENSKI;AGENT;false
+3;asdssss;ssfsfda;fdsfsdaff;sfsbaf;sffsgvsasa;misa;misa123;MUSKI;AGENT;false
+4;AAAAAAAAAAAAAAAA;ssfsfda;fdsfsdaff;sfsbaf;sffsgvsasa;agent;agent;MUSKI;AGENT;false
+5;MAKI;fvdsvvf;dfvda;ffas;fsvf;fvfs;fdavv;MUSKI;AGENT;false
+6;Nina;fvf;fvbfd;dfb;dfbdf;dfbd;fdzb;MUSKI;AGENT;false
+7;aaaaaaaaa;dsdsvfvf;sa;sf;vsf  bf;svfs;fsv;MUSKI;AGENT;false
+8;Last;bfxbfbf;gndn;ngngfx;ndngdx;ngngxf;ncxnv;ZENSKI;AGENT;false
+9;Dinosuarus;frghjk;dfghjk;htrrsh;gte;thes;rthh;ZENSKI;AGENT;false
+10;Gojsovac;rggreu;r6tut6u;utjtyut;rustryt;ytfytfurt;eutd6tr6;MUSKI;AGENT;false
+11;GGGG;fdggf;123456;ddsgdgd;1223455;ffgf;fdfd;MUSKI;AGENT;false
+12;Gojko;ffgff;fsdgsnbfd;gfdnsfd;fdgnsbffg;gfddfsn;fhgdngf;MUSKI;AGENT;true
