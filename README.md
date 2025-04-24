@@ -1,1 +1,1 @@
-# travel-agency-swing-gui
+### GUI application implemented in Java using Swing library for faculty project
