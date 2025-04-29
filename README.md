@@ -5,4 +5,4 @@ The Tourist Agency app is built with Java Swing. It has different types of users
 
 ## Technologies
 - Java
-- Java Swing
+- Swing
